@@ -48,3 +48,7 @@ Action test_proxy(int client, int args)
     return Plugin_Handled;
 }
 ```
+
+## Special Thanks
+- Silvers for the [original idea](https://forums.alliedmods.net/showthread.php?t=317145)
+- [Felis](https://github.com/felis-catus) for adding `logic_script_proxy` to the game
