@@ -1,6 +1,6 @@
 # [NMRiH] VScript Proxy
 
-Call VScript functions from within Sourcemod
+Call No More Room in Hell's VScript functions from within Sourcemod
 
 ## Usage
 - Drag and drop `vscript_proxy.inc` into spcomp's `include` directory
